@@ -1,0 +1,16 @@
+ ~ text to speech! ~ 
+
+input! Choose file to read (ex.: text): french
+'
+'token/bearer in use:  eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJyZWdpb24iOiJmcmFuY2VjZW50cmFsIiwic3Vic2NyaXB0aW9uLWlkIjoiYmQyMDM0NDUzYWYzNDEyMWE0ZmFiMDVkYmUzZTkyNzYiLCJwcm9kdWN0LWlkIjoiU3BlZWNoU2VydmljZXMuRjAiLCJjb2duaXRpdmUtc2VydmljZXMtZW5kcG9pbnQiOiJodHRwczovL2FwaS5jb2duaXRpdmUubWljcm9zb2Z0LmNvbS9pbnRlcm5hbC92MS4wLyIsImF6dXJlLXJlc291cmNlLWlkIjoiL3N1YnNjcmlwdGlvbnMvMTllY2Y0MmUtYmUyZC00MzA5LWEyYjYtOGRhNzA4ZWM3Y2JhL3Jlc291cmNlR3JvdXBzL1Rlc3QvcHJvdmlkZXJzL01pY3Jvc29mdC5Db2duaXRpdmVTZXJ2aWNlcy9hY2NvdW50cy9pcGV0cnVzaGludm9pY2UiLCJzY29wZSI6InNwZWVjaHNlcnZpY2VzIiwiYXVkIjoidXJuOm1zLnNwZWVjaHNlcnZpY2VzLmZyYW5jZWNlbnRyYWwiLCJleHAiOjE2MDU1NDA1NDEsImlzcyI6InVybjptcy5jb2duaXRpdmVzZXJ2aWNlcyJ9.77PSrXtUc1eHjeGmBOkQltGVGqjE9RtlzxATUpwLJfo 
+
+Language of a given text:  fr 
+
+The following file will be read to you by:  {'Name': 'Microsoft Server Speech Text to Speech Voice (fr-FR, Paul)', 'DisplayName': 'Paul', 'LocalName': 'Paul', 'ShortName': 'fr-FR-Paul', 'Gender': 'Male', 'Locale': 'fr-FR', 'SampleRateHertz': '16000', 'VoiceType': 'Standard'} 
+
+Generated .wav file! -- >  french.wav 
+
+Seconds per symbol:  0.060117042707493955 
+
+
+ ~ end of program ~ 
